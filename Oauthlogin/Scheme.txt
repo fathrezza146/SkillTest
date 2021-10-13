@@ -1,0 +1,1 @@
+mainpage -> klik google login -> callback ke google login untuk login menggunakan akun google -> mendapatkan info akun
